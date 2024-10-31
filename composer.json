@@ -140,12 +140,10 @@
         "drupal/devel": "^5.1.2",
         "drupal/devel_kint_extras": "^1.1"
     },
-    "replace": {
+    "conflict": {
+        "drupal/drupal": "*",
         "dmore/chrome-mink-driver": "*",
         "dmore/behat-chrome-extension": "*"
-    },
-    "conflict": {
-        "drupal/drupal": "*"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
