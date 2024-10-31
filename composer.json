@@ -144,6 +144,9 @@
         "behat/mink-extension": "^2.3",
         "dmore/behat-chrome-extension": "^1.4"
     },
+    "replace": {
+        "dmore/behat-chrome-extension": "*"
+    },
     "conflict": {
         "drupal/drupal": "*"
     },
