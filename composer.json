@@ -1,5 +1,5 @@
 {
-    "name": "cmrignite/drupal-composer-managed",
+    "name": "cmrignite/cmr-drupal",
     "description": "Install Drupal 10 with Composer on Pantheon.",
     "type": "project",
     "license": "MIT",
@@ -139,11 +139,6 @@
         "squizlabs/php_codesniffer": "^3.8.1",
         "drupal/devel": "^5.1.2",
         "drupal/devel_kint_extras": "^1.1"
-    },
-    "conflict": {
-        "drupal/drupal": "*",
-        "dmore/chrome-mink-driver": "*",
-        "dmore/behat-chrome-extension": "*"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
