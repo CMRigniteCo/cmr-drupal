@@ -81,7 +81,6 @@
         "drupal/views_bulk_edit": "^2.9",
         "drupal/views_bulk_operations": "^4.2.6",
         "drupal/ckeditor_link_styles": "^1.0.1",
-        "wikimedia/composer-merge-plugin": "^2.1",
         "mglaman/composer-drupal-lenient": "^1.0.4",
         "drupal/save_edit": "^1.7",
         "drupal/entity_embed": "^1.6",
