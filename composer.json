@@ -195,7 +195,7 @@
             "tbachert/spi": true,
             "drupal/core-project-message": true,
             "mglaman/composer-drupal-lenient": true,
-            "wikimedia/composer-merge-plugin": true
+            "wikimedia/composer-merge-plugin": false
         }
     }
 }
